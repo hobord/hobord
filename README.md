@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+- [MoErgo Glove80 Layout](https://my.glove80.com/#/layout/user/2a202e73-83cb-4933-8fed-440979a4a037)
 - [Moonlander Layout](https://configure.zsa.io/moonlander/layouts/j9VnJ/latest/0)
-- [MoErgo Glove80 Layout](https://my.glove80.com/#/layout/user/bbbbfabe-446f-4d36-9601-8e5aeb2773cc)
+
 
 <!--
 **hobord/hobord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
